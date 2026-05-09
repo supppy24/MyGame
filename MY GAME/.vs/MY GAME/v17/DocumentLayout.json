@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KOJIN 0509\\MY GAME\\",
+  "WorkspaceRootPath": "D:\\mygame0509\\MY GAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B90B693E-C1F0-4E29-8492-F43EF2D7FC3C}|MY GAME.vcxproj|D:\\KOJIN 0509\\MY GAME\\MY GAME.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B90B693E-C1F0-4E29-8492-F43EF2D7FC3C}|MY GAME.vcxproj|D:\\mygame0509\\MY GAME\\MY GAME.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B90B693E-C1F0-4E29-8492-F43EF2D7FC3C}|MY GAME.vcxproj|solutionrelative:MY GAME.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MY GAME.cpp",
-              "DocumentMoniker": "D:\\KOJIN 0509\\MY GAME\\MY GAME.cpp",
+              "DocumentMoniker": "D:\\mygame0509\\MY GAME\\MY GAME.cpp",
               "RelativeDocumentMoniker": "MY GAME.cpp",
-              "ToolTip": "D:\\KOJIN 0509\\MY GAME\\MY GAME.cpp",
+              "ToolTip": "D:\\mygame0509\\MY GAME\\MY GAME.cpp",
               "RelativeToolTip": "MY GAME.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-09T00:41:20.919Z",
               "EditorCaption": ""
